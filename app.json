@@ -33,7 +33,7 @@
         },
         "G_DRIVE_IS_TD": {
             "description": "Set True if it is TeamDrive",
-            "value": "True"
+            "value": "False"
         },
         "LOAD_UNOFFICIAL_PLUGINS": {
             "description": "Set True if your like to use unofficial plugins",
