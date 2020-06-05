@@ -26,14 +26,17 @@
             "description": "Mongodb url from https://cloud.mongodb.com/"
         },
         "G_DRIVE_CLIENT_ID": {
-            "description": "Googel Drive API Keys from https://console.developers.google.com/"
+            "description": "Googel Drive API Keys from https://console.developers.google.com/",
+            "required": false
         },
         "G_DRIVE_CLIENT_SECRET": {
-            "description": "Googel Drive API Keys from https://console.developers.google.com/"
+            "description": "Googel Drive API Keys from https://console.developers.google.com/",
+            "required": false
         },
         "G_DRIVE_IS_TD": {
             "description": "Set True if it is TeamDrive",
-            "value": "False"
+            "required": false
+            "value": "True"
         },
         "LOAD_UNOFFICIAL_PLUGINS": {
             "description": "Set True if your like to use unofficial plugins",
